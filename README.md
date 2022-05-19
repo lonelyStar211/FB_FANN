@@ -9,6 +9,6 @@ Site: http://leenissen.dk/fann/wp/
 
 fb_FANN.zip is source of the translation from C to FreeBasic
 
-inc and samples are the headers and sample code for Windows and Linux
+inc and samples are the FreeBasic headers and sample code for Windows and Linux
 
 Tested on Windows 7 32 bit and on Linux 64 bit OS with FBC 1.09.0
