@@ -7,10 +7,8 @@ GitHub: https://github.com/libfann/fann?ref=hackernoon.com
 
 Site: http://leenissen.dk/fann/wp/
 
-fb_FANN.zip is Linux FANN lib headers and example code
+fb_FANN.zip is sorce of the translation from C to FreeBasic
 
-Tested on Linux 64 bit OS with FBC 1.09.0
+inc and samples are the headers and sample code for Windows and Linux
 
-inc and samples are the headers and sample code for Windows
-
-Tested on Windows 7 32 bit
+Tested on Windows 7 32 bit and on Linux 64 bit OS with FBC 1.09.0
