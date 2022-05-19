@@ -7,7 +7,7 @@ GitHub: https://github.com/libfann/fann?ref=hackernoon.com
 
 Site: http://leenissen.dk/fann/wp/
 
-fb_FANN.zip is sorce of the translation from C to FreeBasic
+fb_FANN.zip is source of the translation from C to FreeBasic
 
 inc and samples are the headers and sample code for Windows and Linux
 
